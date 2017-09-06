@@ -1,0 +1,24 @@
+# Files
+*.o
+*.suo
+*.sln
+*.csproj
+*.apk
+*.log
+.DS_Store
+*.userprefs
+
+# Folders
+mcworld/Assets/StreamingAssets/Lua/.vscode
+mcworld/Assets/Core/Resources/.vscode
+mcworld/Library
+mcworld/Temp
+mcworld/Logs
+mcworld/Worlds
+mcworld/CppCore
+product/build/.vscode
+product/build/__pycache__
+tool
+mcworld_server
+
+#Logic need

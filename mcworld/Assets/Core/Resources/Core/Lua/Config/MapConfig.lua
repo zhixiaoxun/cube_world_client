@@ -1,0 +1,292 @@
+-- MapConfig = {
+--     --地图大小等级定义
+--     Size = {
+--         Normal = {X=8,Y=6,Z=8},
+--         Medium = {X=7,Y=6,Z=7},
+--         Small = {X=6,Y=5,Z=6},
+--         Big = {X=9,Y=6,Z=9},
+--     },
+
+--     --天气定义
+--     DayInfo = {
+--         ["Always Day"] = {
+--             Duration=900001,
+--             Luminances={
+--                 {0,100},
+--                 {1,100},
+--             },
+--         },
+--         ["Always Night"] = {
+--             Duration=900001,
+--             Luminances={
+--                 {0,20},
+--                 {1,20},
+--             },
+--         },
+--         ["60 seconds"] = {
+--             Duration=60,
+--             Luminances={
+--                 {0,100},
+--                 {0.4,100},
+--                 {0.6,20},
+--                 {0.8,20},
+--                 {1,100},
+--             },
+--         },
+--         ["120 seconds"] = {
+--             Duration=120,
+--             Luminances={
+--                 {0,100},
+--                 {0.4,100},
+--                 {0.6,20},
+--                 {0.8,20},
+--                 {1,100},
+--             },
+--         },
+--         ["240 seconds"] = {
+--             Duration=240,
+--             Luminances={
+--                 {0,100},
+--                 {0.4,100},
+--                 {0.6,20},
+--                 {0.8,20},
+--                 {1,100},
+--             },
+--         },
+--     },
+
+--     --Tiles used for damage / fire
+--     ExtraMaterials = {
+--         DamageMaterials={240,241,242,243,244,245,246,247,248,249},
+--         FireMaterials={30}
+--     },
+
+--     -- Tile Definitions
+--     -- id: Tile id
+--     -- description: Tile description
+--     -- enery: Tile energy (0-15), the default value is 15 (not damageable)
+--     -- drawMode: Tile draw mode (SOLID / SOLID_ALPHA / TRANSPARENT / LIQUID)
+--     -- materials: Index array of textues used in each face. order: back, front, bottom, top, right, left. 
+--     --      If only one material is present, the same material is used in all faces
+--     -- castShadow: Tiles cast shadow or not (true / false), the default value is true
+--     -- lightSourceIntensity: Tile light source intenseity (0-14), the default value is 0 (no light source)
+--     -- animated: Tile texture animated (true / false), the default value is false
+--     -- burns: Tile burns when set on fire (true / false), the default value is false
+--     -- liquid: Tile is a liquid (true / false), the default is false
+--     -- solid: Tile is solid (true / false), the default is true
+--     Tiles = {
+--         dirt={drawMode="SOLID", description="Dirt", materials={13} energy=4 },
+--         dirt_grass={drawMode="SOLIDGRASS", description="Dirt + Grass", materials={3,3,13,12,3,3}, energy=6 },
+--         sand={drawMode="SOLID", description="Sand", materials={18}, energy=6 },
+--         rock={drawMode="SOLID", description="Rock", materials={49}, energy=8 },
+--         falling_rock={drawMode="SOLID", description="Falling Rock", materials={1}, energy=8 },
+--         hard_rock={drawMode="SOLID", description="Hard Rock", materials={48} },
+--         hard_glass={drawMode="SOLID_ALPHA", description="Hard Glass", materials={49}, castShadow=false},
+--         ceiling_glass={drawMode="SOLID_ALPHA", description="Ceiling Glass", materials={-1,-1,49,-1,-1,-1}, castShadow=false},
+--         glass={drawMode="SOLID_ALPHA", description="Light", castShadow=false, lightSourceIntensity=14, materials={49}, energy=6},
+--         wood={drawMode="SOLID", description="Wood", materials={39,39,38,38,39,39}, energy=6, burns=true},
+--         leaves={drawMode="SOLID_ALPHA", description="Leaves", materials={7}, energy=2, burns=true },
+--         water={liquid=true, solid=false, drawMode="LIQUID", animated=true, description="Water", castShadow=false, materials={223}, energy=1},
+--         lava={liquid=true, solid=true, drawMode="LIQUID", animated=true, description="Lava", castShadow=false, lightSourceIntensity=14, materials={255} energy=4},
+--         rock_floor={drawMode="SOLID", description="Rock Floor", materials={16}, energy=8 },
+--         rock_grass={drawMode="SOLID", description="Rock w/Grass", materials={17}, energy=8 },
+--         rock_gold={drawMode="SOLID", description="Rock w/Gold", materials={32}, energy=14},
+--         rock_copper={drawMode="SOLID", description="Rock w/Copper", materials={33}, energy=14 },
+--         rock_carbon={drawMode="SOLID", description="Rock w/Carbon", materials={34}, energy=14 },
+--         rock_diamond={drawMode="SOLID", description="Rock w/Diamond", materials={50}, energy=14 },
+--         rock_red={drawMode="SOLID", description="Rock w/Red", materials={51}, energy=14 },
+--         tnt={drawMode="SOLID", description="TNT", materials={8,8,10,9,8,8}, energy=1},
+--     },
+
+--     --物品定义
+--     Items = {
+--         item_weapon = {description="Weapon", material="item_weapon", materialCount=3, pivot={0,-1,0}, damage=4, durability=30},
+--   	    item_fire = {description="Weapon of Fire", material="item_fire",  pivot={0,-1,0}, durability=30, damage=2, setOnFire=true},
+--     },
+
+--     --角色定义
+--     Avatars = {
+--         player = {
+--             description = "Main Player",
+--             size = {1,2,1},
+--             Parts = {
+--                 {id="head", scale=32, material="player_head", materialCount=8, pivot={0,-1,0}, offset={0,0.375,0}},
+--                 {id="body", scale=16, material="player_body", materialCount=4 offset={0,0,0}},
+--                 {id="arm", scale=16, material="player_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={-0.25,0.375,0}, rotation={0,0,-25}},
+--                 {id="arm", scale=16, material="player_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={0.25,0.375,0},  rotation={0,0,25}},
+--                 {id="leg", scale=16, material="player_leg", materialCount=2, pivot={0,1,0}, offset={-0.125,-0.375,0}},
+--                 {id="leg",scale=16, material="player_leg", materialCount=2, pivot={0,1,0}, offset={0.125,-0.375,0}},
+--             },
+--         },
+--         player_remote = {
+--             description = "Remote Player",
+--             size = {1,2,1},
+--             Parts = {
+--                 {id="head", scale=32, material="player_head", materialCount=8, pivot={0,-1,0}, offset={0,0.375,0}},
+--                 {id="body", scale=16, material="player_body", materialCount=4 offset={0,0,0}},
+--                 {id="arm", scale=16, material="player_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={-0.25,0.375,0}, rotation={0,0,-25}},
+--                 {id="arm", scale=16, material="player_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={0.25,0.375,0},  rotation={0,0,25}},
+--                 {id="leg", scale=16, material="player_leg", materialCount=2, pivot={0,1,0}, offset={-0.125,-0.375,0}},
+--                 {id="leg",scale=16, material="player_leg", materialCount=2, pivot={0,1,0}, offset={0.125,-0.375,0}},
+--             },
+--         },
+--         enemy = {
+--             description = "Enemy",
+--             size = {1,2,1},
+--             Parts = {
+--                 {id="head", scale=32, material="enemy_head", materialCount=8, pivot={0,-1,0}, offset={0,0.375,0}},
+--                 {id="body", scale=16, material="enemy_body", materialCount=4 offset={0,0,0}},
+--                 {id="arm", scale=16, material="enemy_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={-0.25,0.375,0}, rotation={0,0,-25}},
+--                 {id="arm", scale=16, material="enemy_arm", materialCount=2, pivot={0,1,0}, plane="x", offset={0.25,0.375,0},  rotation={0,0,25}},
+--                 {id="leg", scale=16, material="enemy_leg", materialCount=2, pivot={0,1,0}, offset={-0.125,-0.375,0}},
+--                 {id="leg",scale=16, material="enemy_leg", materialCount=2, pivot={0,1,0}, offset={0.125,-0.375,0}},
+--             },
+--         },
+--         pig = {
+--             description = "Pig",
+--             size = {1,1,2},
+--             Parts = {
+--                 {id="head", scale=16, material="pig_head", materialCount=4, pivot={0,-1,0}, offset={0,0.375,0}},
+--                 {id="body", scale=8, material="pig_body", plane="y",materialCount=6 offset={0,0.125,0}},
+--                 {id="leg", scale=8, material="pig_leg", materialCount=2, pivot={0,1,0}, offset={-0.25,-0.125,0.5}},
+--                 {id="leg", scale=8, material="pig_leg", materialCount=2, pivot={0,1,0}, offset={0.25,-0.125,0.5}},
+--                 {id="leg", scale=8, material="pig_leg", materialCount=2, pivot={0,1,0}, offset={-0.25,-0.125,-0.5}},
+--                 {id="leg", scale=8, material="pig_leg", materialCount=2, pivot={0,1,0}, offset={0.25,-0.125,-0.5}},
+--             },
+--         },
+--     },
+--     --TileRules
+--     TileRules = {
+--         TileActionRule = {
+--             --ome destroyed tiles drop the same tile item when destroyed
+--             {
+--                 tileType="dirt,dirt_grass,sand,rock,glass,wood,leaves,falling_rock",
+--                 action="DESTROYED",
+--                 DropSameTileItem=true,
+--             },
+
+--             {
+--                 tileType="falling_rock",
+--                 action="CREATED",
+--                 SetDynamic={
+--                     IsType={
+--                         dy="-1", 
+--                         tileType="empty",
+--                     },
+--                 },
+--             },
+
+--             -- Convert some falling object back to static objects once they hit the floor
+--             {
+--                 tileType="falling_rock",
+--                 action="HIT_FLOOR",
+--                 SetDynamic={
+--                     value="false",
+--                 },
+--             },
+
+--             -- Destroy TNT in 25 cycles after clicked (2.5 seconds)
+--             {
+--                 tileType="tnt",
+--                 action="CLICKED",
+--                 SetDynamic={
+--                     gravity=false,
+--                     timeout=25,
+--                 },
+--                 ApplyEffect={
+--                     id="vibration",
+--                 }
+--             },
+
+--             {
+--                 tileType="tnt",
+--                 action="TIMEOUT",
+--                 Destroy=true,
+--             },
+
+--             -- Explode TNT when destroyed
+--             {
+--                 tileType="tnt",
+--                 action="DESTROYED",
+--                 PlayEffect={
+--                     id="explosion"
+--                 },
+--                 PlaySound={
+--                     id="explosion",
+--                 },
+--                 Explode={
+--                     radius=5,
+--                     damage=30,
+--                     setOnFire=true,
+--                 }
+--             },
+
+--             -- Convert falling leaves back to static if they hit the floor and they're not on fire
+--             {
+--                 tileType="leaves",
+--                 action="HIT_FLOOR",
+--                 SetDynamic={
+--                     value=false,
+--                     Not={IsOnFire=true},
+--                 }
+--             },
+
+--             -- Damage things on fire
+--             {
+--                 tileType="wood",
+--                 action="ONFIRE",
+--                 SetDynamic={
+--                     gravity=false,
+--                     timeout=10,
+--                 }
+--             },
+
+--             {
+--                 tileType="leaves",
+--                 action="ONFIRE",
+--                 SetDynamic={
+--                     timeout=10,
+--                 }
+--             },
+
+--             {
+--                 tileType="wood,leaves",
+--                 action="TIMEOUT",
+--                 SetDynamic={-- Make the tile static if it's not on fire
+--                     value=false,
+--                     Not={IsOnFire=true},
+--                 },
+--                 Multiple={
+--                     Condition={IsOnFire=true},
+--                     Rules={
+--                         SetDynamic={
+--                             timeout=10,-- Enqueue another timeout
+--                         },
+--                         MultipleOnlyOne={
+--                             useRandom=true,
+--                             Rules={
+--                                 <SetOnFire dx="-1">
+--                                     <And>
+--                                         <IsBurnable dx="-1"/>
+--                                         <Not>
+--                                             <IsOnFire dx="-1"/>
+--                                         </Not>
+--                                     </And>
+--                                 </SetOnFire>
+
+--                                 <SetOnFire dx="1"><And><IsBurnable dx="1"/><Not><IsOnFire dx="1"/></Not></And></SetOnFire>
+--                                 <SetOnFire dy="-1"><And><IsBurnable dy="-1"/><Not><IsOnFire dy="-1"/></Not></And></SetOnFire>
+--                                 <SetOnFire dy="1"><And><IsBurnable dy="1"/><Not><IsOnFire dy="1"/></Not></And></SetOnFire>
+--                                 <SetOnFire dz="-1"><And><IsBurnable dz="-1"/><Not><IsOnFire dz="-1"/></Not></And></SetOnFire>
+--                                 <SetOnFire dz="1"><And><IsBurnable dz="1"/><Not><IsOnFire dz="1"/></Not></And></SetOnFire>
+--                             },
+--                         },
+--                         Damage={
+--                             damage=1,
+--                         }
+--                     }
+--                 }
+--             }
+--         }
+--     }
+-- }

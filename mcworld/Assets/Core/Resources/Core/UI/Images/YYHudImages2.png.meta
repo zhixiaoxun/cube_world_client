@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 0e590e4340f0567448298ab64d95c85a
+timeCreated: 1501644274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YYHudImages2_0
+    21300002: YYHudImages2_1
+    21300004: YYHudImages2_2
+    21300006: YYHudImages2_3
+    21300008: YYHudImages2_4
+    21300010: YYHudImages2_5
+    21300012: YYHudImages2_6
+    21300014: YYHudImages2_7
+    21300016: YYHudImages2_8
+    21300018: YYHudImages2_9
+    21300020: YYHudImages2_10
+    21300022: YYHudImages2_11
+    21300024: YYHudImages2_12
+    21300026: YYHudImages2_13
+    21300028: YYHudImages2_14
+    21300030: YYHudImages2_15
+    21300032: YYHudImages2_16
+    21300034: YYHudImages2_17
+    21300036: YYHudImages2_18
+    21300038: YYHudImages2_19
+    21300040: YYHudImages2_20
+    21300042: YYHudImages2_21
+    21300044: YYHudImages2_22
+    21300046: YYHudImages2_23
+    21300048: YYHudImages2_24
+    21300050: YYHudImages2_25
+    21300052: YYHudImages2_26
+    21300054: YYHudImages2_27
+    21300056: YYHudImages2_28
+    21300058: YYHudImages2_29
+    21300060: YYHudImages2_30
+    21300062: YYHudImages2_31
+    21300064: YYHudImages2_32
+    21300066: YYHudImages2_33
+    21300068: YYHudImages2_34
+    21300070: YYHudImages2_35
+    21300072: YYHudImages2_36
+    21300074: YYHudImages2_37
+    21300076: YYHudImages2_38
+    21300078: YYHudImages2_39
+    21300080: YYHudImages2_40
+    21300082: YYHudImages2_41
+    21300084: YYHudImages2_42
+    21300086: YYHudImages2_43
+    21300088: YYHudImages2_44
+    21300090: YYHudImages2_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YYHudImages2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 401
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 588
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 547
+        width: 378
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 588
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 588
+        width: 410
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 348
+        width: 141
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 473
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 473
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_14
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 375
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 375
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 417
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 172
+        width: 141
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 297
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 297
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_24
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 259
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 259
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 290
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_27
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 290
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 290
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 291
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_30
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_31
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 234
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 250
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_33
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 250
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_34
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 291
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 235
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_36
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 235
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 29
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 29
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_40
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_41
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_42
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_43
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_44
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYHudImages2_45
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 30
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4770 @@
+fileFormatVersion: 2
+guid: 4fe0a1d51435e9e46b527613e5753cfc
+timeCreated: 1501644219
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YYCommonImages_0
+    21300002: YYCommonImages_1
+    21300004: YYCommonImages_2
+    21300006: YYCommonImages_3
+    21300008: YYCommonImages_4
+    21300010: YYCommonImages_5
+    21300012: YYCommonImages_6
+    21300014: YYCommonImages_7
+    21300016: YYCommonImages_8
+    21300018: YYCommonImages_9
+    21300020: YYCommonImages_10
+    21300022: YYCommonImages_11
+    21300024: YYCommonImages_12
+    21300026: YYCommonImages_13
+    21300028: YYCommonImages_14
+    21300030: YYCommonImages_15
+    21300032: YYCommonImages_16
+    21300034: YYCommonImages_17
+    21300036: YYCommonImages_18
+    21300038: YYCommonImages_19
+    21300040: YYCommonImages_20
+    21300042: YYCommonImages_21
+    21300044: YYCommonImages_22
+    21300046: YYCommonImages_23
+    21300048: YYCommonImages_24
+    21300050: YYCommonImages_25
+    21300052: YYCommonImages_26
+    21300054: YYCommonImages_27
+    21300056: YYCommonImages_28
+    21300058: YYCommonImages_29
+    21300060: YYCommonImages_30
+    21300062: YYCommonImages_31
+    21300064: YYCommonImages_32
+    21300066: YYCommonImages_33
+    21300068: YYCommonImages_34
+    21300070: YYCommonImages_35
+    21300072: YYCommonImages_36
+    21300074: YYCommonImages_37
+    21300076: YYCommonImages_38
+    21300078: YYCommonImages_39
+    21300080: YYCommonImages_40
+    21300082: YYCommonImages_41
+    21300084: YYCommonImages_42
+    21300086: YYCommonImages_43
+    21300088: YYCommonImages_44
+    21300090: YYCommonImages_45
+    21300092: YYCommonImages_46
+    21300094: YYCommonImages_47
+    21300096: YYCommonImages_48
+    21300098: YYCommonImages_49
+    21300100: YYCommonImages_50
+    21300102: YYCommonImages_51
+    21300104: YYCommonImages_52
+    21300106: YYCommonImages_53
+    21300108: YYCommonImages_54
+    21300110: YYCommonImages_55
+    21300112: YYCommonImages_56
+    21300114: YYCommonImages_57
+    21300116: YYCommonImages_58
+    21300118: YYCommonImages_59
+    21300120: YYCommonImages_60
+    21300122: YYCommonImages_61
+    21300124: YYCommonImages_62
+    21300126: YYCommonImages_63
+    21300128: YYCommonImages_64
+    21300130: YYCommonImages_65
+    21300132: YYCommonImages_66
+    21300134: YYCommonImages_67
+    21300136: YYCommonImages_68
+    21300138: YYCommonImages_69
+    21300140: YYCommonImages_70
+    21300142: YYCommonImages_71
+    21300144: YYCommonImages_72
+    21300146: YYCommonImages_73
+    21300148: YYCommonImages_74
+    21300150: YYCommonImages_75
+    21300152: YYCommonImages_76
+    21300154: YYCommonImages_77
+    21300156: YYCommonImages_78
+    21300158: YYCommonImages_79
+    21300160: YYCommonImages_80
+    21300162: YYCommonImages_81
+    21300164: YYCommonImages_82
+    21300166: YYCommonImages_83
+    21300168: YYCommonImages_84
+    21300170: YYCommonImages_85
+    21300172: YYCommonImages_86
+    21300174: YYCommonImages_87
+    21300176: YYCommonImages_88
+    21300178: YYCommonImages_89
+    21300180: YYCommonImages_90
+    21300182: YYCommonImages_91
+    21300184: YYCommonImages_92
+    21300186: YYCommonImages_93
+    21300188: YYCommonImages_94
+    21300190: YYCommonImages_95
+    21300192: YYCommonImages_96
+    21300194: YYCommonImages_97
+    21300196: YYCommonImages_98
+    21300198: YYCommonImages_99
+    21300200: YYCommonImages_100
+    21300202: YYCommonImages_101
+    21300204: YYCommonImages_102
+    21300206: YYCommonImages_103
+    21300208: YYCommonImages_104
+    21300210: YYCommonImages_105
+    21300212: YYCommonImages_106
+    21300214: YYCommonImages_107
+    21300216: YYCommonImages_108
+    21300218: YYCommonImages_109
+    21300220: YYCommonImages_110
+    21300222: YYCommonImages_111
+    21300224: YYCommonImages_112
+    21300226: YYCommonImages_113
+    21300228: YYCommonImages_114
+    21300230: YYCommonImages_115
+    21300232: YYCommonImages_116
+    21300234: YYCommonImages_117
+    21300236: YYCommonImages_118
+    21300238: YYCommonImages_119
+    21300240: YYCommonImages_120
+    21300242: YYCommonImages_121
+    21300244: YYCommonImages_122
+    21300246: YYCommonImages_123
+    21300248: YYCommonImages_124
+    21300250: YYCommonImages_125
+    21300252: YYCommonImages_126
+    21300254: YYCommonImages_127
+    21300256: YYCommonImages_128
+    21300258: YYCommonImages_129
+    21300260: YYCommonImages_130
+    21300262: YYCommonImages_131
+    21300264: YYCommonImages_132
+    21300266: YYCommonImages_133
+    21300268: YYCommonImages_134
+    21300270: YYCommonImages_135
+    21300272: YYCommonImages_136
+    21300274: YYCommonImages_137
+    21300276: YYCommonImages_138
+    21300278: YYCommonImages_139
+    21300280: YYCommonImages_140
+    21300282: YYCommonImages_141
+    21300284: YYCommonImages_142
+    21300286: YYCommonImages_143
+    21300288: YYCommonImages_144
+    21300290: YYCommonImages_145
+    21300292: YYCommonImages_146
+    21300294: YYCommonImages_147
+    21300296: YYCommonImages_148
+    21300298: YYCommonImages_149
+    21300300: YYCommonImages_150
+    21300302: YYCommonImages_151
+    21300304: YYCommonImages_152
+    21300306: YYCommonImages_153
+    21300308: YYCommonImages_154
+    21300310: YYCommonImages_155
+    21300312: YYCommonImages_156
+    21300314: YYCommonImages_157
+    21300316: YYCommonImages_158
+    21300318: YYCommonImages_159
+    21300320: YYCommonImages_160
+    21300322: YYCommonImages_161
+    21300324: YYCommonImages_162
+    21300326: YYCommonImages_163
+    21300328: YYCommonImages_164
+    21300330: YYCommonImages_165
+    21300332: YYCommonImages_166
+    21300334: YYCommonImages_167
+    21300336: YYCommonImages_168
+    21300338: YYCommonImages_169
+    21300340: YYCommonImages_170
+    21300342: YYCommonImages_171
+    21300344: YYCommonImages_172
+    21300346: YYCommonImages_173
+    21300348: YYCommonImages_174
+    21300350: YYCommonImages_175
+    21300352: YYCommonImages_176
+    21300354: YYCommonImages_177
+    21300356: YYCommonImages_178
+    21300358: YYCommonImages_179
+    21300360: YYCommonImages_180
+    21300362: YYCommonImages_181
+    21300364: YYCommonImages_182
+    21300366: YYCommonImages_183
+    21300368: YYCommonImages_184
+    21300370: YYCommonImages_185
+    21300372: YYCommonImages_186
+    21300374: YYCommonImages_187
+    21300376: YYCommonImages_188
+    21300378: YYCommonImages_189
+    21300380: YYCommonImages_190
+    21300382: YYCommonImages_191
+    21300384: YYCommonImages_192
+    21300386: YYCommonImages_193
+    21300388: YYCommonImages_194
+    21300390: YYCommonImages_195
+    21300392: YYCommonImages_196
+    21300394: YYCommonImages_197
+    21300396: YYCommonImages_198
+    21300398: YYCommonImages_199
+    21300400: YYCommonImages_200
+    21300402: YYCommonImages_201
+    21300404: YYCommonImages_202
+    21300406: YYCommonImages_203
+    21300408: YYCommonImages_204
+    21300410: YYCommonImages_205
+    21300412: YYCommonImages_206
+    21300414: YYCommonImages_207
+    21300416: YYCommonImages_208
+    21300418: YYCommonImages_209
+    21300420: YYCommonImages_210
+    21300422: YYCommonImages_211
+    21300424: YYCommonImages_212
+    21300426: YYCommonImages_213
+    21300428: YYCommonImages_214
+    21300430: YYCommonImages_215
+    21300432: YYCommonImages_216
+    21300434: YYCommonImages_217
+    21300436: YYCommonImages_218
+    21300438: YYCommonImages_219
+    21300440: YYCommonImages_220
+    21300442: YYCommonImages_221
+    21300444: YYCommonImages_222
+    21300446: YYCommonImages_223
+    21300448: YYCommonImages_224
+    21300450: YYCommonImages_225
+    21300452: YYCommonImages_226
+    21300454: YYCommonImages_227
+    21300456: YYCommonImages_228
+    21300458: YYCommonImages_229
+    21300460: YYCommonImages_230
+    21300462: YYCommonImages_231
+    21300464: YYCommonImages_232
+    21300466: YYCommonImages_233
+    21300468: YYCommonImages_234
+    21300470: YYCommonImages_235
+    21300472: YYCommonImages_236
+    21300474: YYCommonImages_237
+    21300476: YYCommonImages_238
+    21300478: YYCommonImages_239
+    21300480: YYCommonImages_240
+    21300482: YYCommonImages_241
+    21300484: YYCommonImages_242
+    21300486: YYCommonImages_243
+    21300488: YYCommonImages_244
+    21300490: YYCommonImages_245
+    21300492: YYCommonImages_246
+    21300494: YYCommonImages_247
+    21300496: YYCommonImages_248
+    21300498: YYCommonImages_249
+    21300500: YYCommonImages_250
+    21300502: YYCommonImages_251
+    21300504: YYCommonImages_252
+    21300506: YYCommonImages_253
+    21300508: YYCommonImages_254
+    21300510: YYCommonImages_255
+    21300512: YYCommonImages_256
+    21300514: YYCommonImages_257
+    21300516: YYCommonImages_258
+    21300518: YYCommonImages_259
+    21300520: YYCommonImages_260
+    21300522: YYCommonImages_261
+    21300524: YYCommonImages_262
+    21300526: YYCommonImages_263
+    21300528: YYCommonImages_264
+    21300530: YYCommonImages_265
+    21300532: YYCommonImages_266
+    21300534: YYCommonImages_267
+    21300536: YYCommonImages_268
+    21300538: YYCommonImages_269
+    21300540: YYCommonImages_270
+    21300542: YYCommonImages_271
+    21300544: YYCommonImages_272
+    21300546: YYCommonImages_273
+    21300548: YYCommonImages_274
+    21300550: YYCommonImages_275
+    21300552: YYCommonImages_276
+    21300554: YYCommonImages_277
+    21300556: YYCommonImages_278
+    21300558: YYCommonImages_279
+    21300560: YYCommonImages_280
+    21300562: YYCommonImages_281
+    21300564: YYCommonImages_282
+    21300566: YYCommonImages_283
+    21300568: YYCommonImages_284
+    21300570: YYCommonImages_285
+    21300572: YYCommonImages_286
+    21300574: YYCommonImages_287
+    21300576: YYCommonImages_288
+    21300578: YYCommonImages_289
+    21300580: YYCommonImages_290
+    21300582: YYCommonImages_291
+    21300584: YYCommonImages_292
+    21300586: YYCommonImages_293
+    21300588: YYCommonImages_294
+    21300590: YYCommonImages_295
+    21300592: YYCommonImages_296
+    21300594: YYCommonImages_297
+    21300596: YYCommonImages_298
+    21300598: YYCommonImages_299
+    21300600: YYCommonImages_300
+    21300602: YYCommonImages_301
+    21300604: YYCommonImages_302
+    21300606: YYCommonImages_303
+    21300608: YYCommonImages_304
+    21300610: YYCommonImages_305
+    21300612: YYCommonImages_306
+    21300614: YYCommonImages_307
+    21300616: YYCommonImages_308
+    21300618: YYCommonImages_309
+    21300620: YYCommonImages_310
+    21300622: YYCommonImages_311
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YYCommonImages_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 916
+        width: 180
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 934
+        width: 168
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 933
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 933
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 960
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 906
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 916
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 824
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 824
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 781
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 768
+        width: 94
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 872
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 893
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 784
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 800
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_17
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 902
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 902
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 842
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 840
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_22
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 850
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 824
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_25
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 756
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 764
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 828
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 803
+        width: 130
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 806
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 767
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 724
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 786
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 792
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 662
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 771
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 779
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 751
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 657
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 749
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 751
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 764
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 683
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 679
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 684
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 685
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_47
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 745
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_48
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 699
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_49
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 746
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 649
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 677
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_52
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 663
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_53
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 684
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_54
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 635
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 667
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 599
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 607
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 604
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 672
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 665
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_61
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 662
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 624
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 665
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_64
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 618
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_65
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 540
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 592
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 581
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_69
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 599
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 622
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_71
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 622
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_72
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 622
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_73
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 562
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_75
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 553
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_76
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 605
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_77
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 605
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 535
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 598
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_80
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 599
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 589
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 589
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_83
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 589
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 517
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_85
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 523
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_86
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 507
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 541
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_89
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 487
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 487
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_91
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 535
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 441
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 518
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 509
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_95
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 471
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_96
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 461
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_98
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 487
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 438
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_100
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 446
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 487
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_103
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 444
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 404
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_106
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 411
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_107
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 448
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_108
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 444
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_109
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 423
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_110
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 437
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_111
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 437
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 404
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 352
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_114
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 401
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_115
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 412
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 397
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_117
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_118
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 429
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_119
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 423
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_120
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 423
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_122
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 403
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_123
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 373
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_124
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 373
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 373
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_127
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 377
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 363
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_129
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 343
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_130
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 359
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_131
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 359
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_132
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 359
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_133
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 315
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_134
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 365
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_135
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 365
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_136
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 365
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_137
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 274
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_138
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 296
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_139
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 287
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_140
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 285
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_141
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 285
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_142
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 321
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_143
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 310
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 310
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_145
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 311
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_146
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 309
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_147
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 275
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_148
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 273
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_149
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 297
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_150
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_151
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 297
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_152
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 297
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_153
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_154
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 297
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_155
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 269
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_156
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 269
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 239
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_159
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 237
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_160
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 241
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_161
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 235
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_162
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 273
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_163
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 280
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_164
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 280
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_165
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 280
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_166
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 280
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_167
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 171
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_168
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_169
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 169
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_170
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 218
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_171
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_172
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 260
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_173
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_174
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_175
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 264
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_176
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_177
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_178
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 264
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_179
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_180
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 228
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_181
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 228
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_182
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 242
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_183
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 243
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_184
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 243
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_185
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_186
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 251
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_187
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_188
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_189
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 251
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_190
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_191
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 220
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_193
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 195
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_194
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 195
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_195
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_196
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 227
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_197
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_198
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_199
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_200
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_201
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_202
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 193
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_203
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 202
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_204
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 205
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_205
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_206
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 218
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_207
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_208
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_209
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 218
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_210
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_211
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 188
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_212
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 188
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_213
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 169
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_214
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 165
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_215
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 196
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_216
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 194
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_217
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 195
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_218
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 199
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_219
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 196
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_220
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 200
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_221
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_222
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 155
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_223
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 153
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_224
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 111
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_225
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 151
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_226
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 169
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_227
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 154
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_228
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 156
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_229
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 156
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_230
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 155
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_231
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 155
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_232
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 162
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_233
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 177
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_234
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_235
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_236
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 155
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_237
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 151
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_238
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 135
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_239
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 120
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_240
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_241
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_242
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 113
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_243
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 111
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_244
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 109
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_245
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 110
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_246
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 105
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_247
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 124
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_248
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 124
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_249
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 126
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_250
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 122
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_251
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_252
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_253
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 71
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_254
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 71
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_255
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 69
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_256
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 69
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_257
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_258
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 94
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_259
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_260
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 94
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_261
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_262
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_263
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 91
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_264
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 88
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_265
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_266
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 27
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_267
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 51
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_268
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 31
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_269
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 31
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_270
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 29
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_271
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_272
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 36
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_273
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_274
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 61
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_275
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 61
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_276
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_277
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 56
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_278
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_279
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_280
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 27
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_281
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 46
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_282
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 26
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_283
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_284
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_285
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 36
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_286
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 36
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_287
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_288
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 34
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_289
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_290
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_291
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_292
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_293
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_294
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_295
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_296
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_297
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_298
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_299
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_300
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_301
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_302
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_303
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_304
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 4
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_305
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_306
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_307
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_308
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_309
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_310
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YYCommonImages_311
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

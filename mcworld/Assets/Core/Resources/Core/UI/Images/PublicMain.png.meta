@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 59ea8a43b622b854db103b2d4aa5c50d
+timeCreated: 1502366578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PublicMain_0
+    21300002: PublicMain_1
+    21300004: PublicMain_2
+    21300006: PublicMain_3
+    21300008: PublicMain_4
+    21300010: PublicMain_5
+    21300012: PublicMain_6
+    21300014: PublicMain_7
+    21300016: PublicMain_8
+    21300018: PublicMain_9
+    21300020: PublicMain_10
+    21300022: PublicMain_11
+    21300024: PublicMain_12
+    21300026: PublicMain_13
+    21300028: PublicMain_14
+    21300030: PublicMain_15
+    21300032: PublicMain_16
+    21300034: PublicMain_17
+    21300036: PublicMain_18
+    21300038: PublicMain_19
+    21300040: PublicMain_20
+    21300042: PublicMain_21
+    21300044: PublicMain_22
+    21300046: PublicMain_23
+    21300048: PublicMain_24
+    21300050: PublicMain_25
+    21300052: PublicMain_26
+    21300054: PublicMain_27
+    21300056: PublicMain_28
+    21300058: PublicMain_29
+    21300060: PublicMain_30
+    21300062: PublicMain_31
+    21300064: PublicMain_32
+    21300066: PublicMain_33
+    21300068: PublicMain_34
+    21300070: PublicMain_35
+    21300072: PublicMain_36
+    21300074: PublicMain_37
+    21300076: PublicMain_38
+    21300078: PublicMain_39
+    21300080: PublicMain_40
+    21300082: PublicMain_41
+    21300084: PublicMain_42
+    21300086: PublicMain_43
+    21300088: PublicMain_44
+    21300090: PublicMain_45
+    21300092: PublicMain_46
+    21300094: PublicMain_47
+    21300096: PublicMain_48
+    21300098: PublicMain_49
+    21300100: PublicMain_50
+    21300102: PublicMain_51
+    21300104: PublicMain_52
+    21300106: PublicMain_53
+    21300108: PublicMain_54
+    21300110: PublicMain_55
+    21300112: PublicMain_56
+    21300114: PublicMain_57
+    21300116: PublicMain_58
+    21300118: PublicMain_59
+    21300120: PublicMain_60
+    21300122: PublicMain_61
+    21300124: PublicMain_62
+    21300126: PublicMain_63
+    21300128: PublicMain_64
+    21300130: PublicMain_65
+    21300132: PublicMain_66
+    21300134: PublicMain_67
+    21300136: PublicMain_68
+    21300138: PublicMain_69
+    21300140: PublicMain_70
+    21300142: PublicMain_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PublicMain_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 771
+        width: 385
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 729
+        width: 278
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 987
+        width: 266
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 943
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 948
+        width: 266
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 939
+        width: 221
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 914
+        width: 130
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 905
+        width: 216
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 804
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 861
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 760
+        width: 209
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_11
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 833
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_12
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 818
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 172
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 737
+        width: 167
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 680
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 698
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_17
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 768
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 753
+        width: 205
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_19
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 732
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 696
+        width: 162
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 574
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 666
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 666
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 659
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 715
+        width: 208
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 718
+        width: 173
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 697
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 648
+        width: 161
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 624
+        width: 173
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_30
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 680
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 622
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 616
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 161
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 589
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 584
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_37
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 584
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 627
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_39
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 556
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 571
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 548
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_43
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 545
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_44
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 589
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_45
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 546
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_46
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 535
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 519
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 533
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 547
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 536
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 548
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 559
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 554
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_54
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 554
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 518
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 506
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 517
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 508
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 508
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_60
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 520
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 528
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_62
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 519
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_63
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 476
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_64
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 465
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_65
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 454
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 490
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 487
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_68
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 459
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_69
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 385
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_70
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 434
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PublicMain_71
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 372
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

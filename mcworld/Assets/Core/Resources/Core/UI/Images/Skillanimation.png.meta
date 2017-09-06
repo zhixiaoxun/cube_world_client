@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: 1b6b4f416316548419337d562838e36c
+timeCreated: 1501644161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skillanimation_0
+    21300002: Skillanimation_1
+    21300004: Skillanimation_2
+    21300006: Skillanimation_3
+    21300008: Skillanimation_4
+    21300010: Skillanimation_5
+    21300012: Skillanimation_6
+    21300014: Skillanimation_7
+    21300016: Skillanimation_8
+    21300018: Skillanimation_9
+    21300020: Skillanimation_10
+    21300022: Skillanimation_11
+    21300024: Skillanimation_12
+    21300026: Skillanimation_13
+    21300028: Skillanimation_14
+    21300030: Skillanimation_15
+    21300032: Skillanimation_16
+    21300034: Skillanimation_17
+    21300036: Skillanimation_18
+    21300038: Skillanimation_19
+    21300040: Skillanimation_20
+    21300042: Skillanimation_21
+    21300044: Skillanimation_22
+    21300046: Skillanimation_23
+    21300048: Skillanimation_24
+    21300050: Skillanimation_25
+    21300052: Skillanimation_26
+    21300054: Skillanimation_27
+    21300056: Skillanimation_28
+    21300058: Skillanimation_29
+    21300060: Skillanimation_30
+    21300062: Skillanimation_31
+    21300064: Skillanimation_32
+    21300066: Skillanimation_33
+    21300068: Skillanimation_34
+    21300070: Skillanimation_35
+    21300072: Skillanimation_36
+    21300074: Skillanimation_37
+    21300076: Skillanimation_38
+    21300078: Skillanimation_39
+    21300080: Skillanimation_40
+    21300082: Skillanimation_41
+    21300084: Skillanimation_42
+    21300086: Skillanimation_43
+    21300088: Skillanimation_44
+    21300090: Skillanimation_45
+    21300092: Skillanimation_46
+    21300094: Skillanimation_47
+    21300096: Skillanimation_48
+    21300098: Skillanimation_49
+    21300100: Skillanimation_50
+    21300102: Skillanimation_51
+    21300104: Skillanimation_52
+    21300106: Skillanimation_53
+    21300108: Skillanimation_54
+    21300110: Skillanimation_55
+    21300112: Skillanimation_56
+    21300114: Skillanimation_57
+    21300116: Skillanimation_58
+    21300118: Skillanimation_59
+    21300120: Skillanimation_60
+    21300122: Skillanimation_61
+    21300124: Skillanimation_62
+    21300126: Skillanimation_63
+    21300128: Skillanimation_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skillanimation_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1328
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1322
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1318
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1314
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1312
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1312
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1271
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1123
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1121
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1278
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1142
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1137
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1131
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1126
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1218
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1218
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 950
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 951
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 954
+        width: 137
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 977
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1073
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_21
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 967
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1070
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_23
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 979
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1045
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1018
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 970
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 815
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 810
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 806
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 802
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 801
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 801
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 761
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_34
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 613
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_35
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 611
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_36
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 768
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 631
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 627
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 621
+        width: 131
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 616
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_41
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 708
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 440
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 441
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 444
+        width: 137
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_46
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 467
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_47
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 563
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_48
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 457
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_49
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_50
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 465
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 535
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_52
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_53
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 460
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 308
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 308
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 306
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_58
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 304
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_59
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 304
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_60
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 304
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skillanimation_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 600
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

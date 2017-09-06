@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1268910746099578}
+  m_IsPrefabParent: 1
+--- !u!1 &1089106876342800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4778573340073240}
+  - component: {fileID: 108794347172978062}
+  m_Layer: 0
+  m_Name: SimpleSun
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1268910746099578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4334779581597356}
+  - component: {fileID: 114347471498404774}
+  m_Layer: 0
+  m_Name: WeatherSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1371502901761216
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4151958281093736}
+  - component: {fileID: 108449289722624752}
+  m_Layer: 0
+  m_Name: reflected
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4151958281093736
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1371502901761216}
+  m_LocalRotation: {x: -0.00000031543036, y: 1, z: 0.00000031324652, w: 0.00000027611307}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4778573340073240}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4334779581597356
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268910746099578}
+  m_LocalRotation: {x: 0, y: 0, z: 0.13052633, w: -0.9914449}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4778573340073240}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 40}
+--- !u!4 &4778573340073240
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1089106876342800}
+  m_LocalRotation: {x: 0.4964013, y: -0.17178805, z: 0.48682618, w: 0.6979075}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4151958281093736}
+  m_Father: {fileID: 4334779581597356}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 59.333004, y: 28.521, z: 86.271}
+--- !u!108 &108449289722624752
+Light:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1371502901761216}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 0.49264705, g: 0.91602427, b: 1, a: 1}
+  m_Intensity: 0.4
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: 3
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_FalloffTable:
+    m_Table[0]: 0
+    m_Table[1]: 0
+    m_Table[2]: 0
+    m_Table[3]: 0
+    m_Table[4]: 0
+    m_Table[5]: 0
+    m_Table[6]: 0
+    m_Table[7]: 0
+    m_Table[8]: 0
+    m_Table[9]: 0
+    m_Table[10]: 0
+    m_Table[11]: 0
+    m_Table[12]: 0
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!108 &108794347172978062
+Light:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1089106876342800}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 0.86947405
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.06
+    m_NormalBias: 0
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1.3
+  m_FalloffTable:
+    m_Table[0]: 0
+    m_Table[1]: 0
+    m_Table[2]: 0
+    m_Table[3]: 0
+    m_Table[4]: 0
+    m_Table[5]: 0
+    m_Table[6]: 0
+    m_Table[7]: 0
+    m_Table[8]: 0
+    m_Table[9]: 0
+    m_Table[10]: 0
+    m_Table[11]: 0
+    m_Table[12]: 0
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!114 &114347471498404774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1268910746099578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88cb552dca7eeca42a615b995fef59f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentTime: 11
+  Sun: {fileID: 1089106876342800}
+  AtmosphereThickness:
+  - 0.65
+  - 0.75
+  - 0.9
+  - 1.1
+  - 1.15
+  - 1.25
+  - 1.15
+  - 1.1
+  - 0.9
+  - 0.75
+  - 0.65
+  - 0.6
+  - 0.65
+  - 0.75
+  - 0.9
+  - 1.1
+  - 1.2
+  - 1.3
+  - 1.2
+  - 1.1
+  - 0.9
+  - 0.75
+  - 0.65
+  - 0.6
+  Exposure:
+  - 0.1
+  - 0.2
+  - 0.3
+  - 0.4
+  - 0.5
+  - 0.65
+  - 0.85
+  - 1.2
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1.2
+  - 0.85
+  - 0.65
+  - 0.5
+  - 0.4
+  - 0.3
+  - 0.2
+  - 0.1
+  - 0.1
+  SkyTint:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0.5514706, g: 0.5404834, b: 0.39215687, a: 0}
+  - {r: 0.5588235, g: 0.4740932, b: 0.29173875, a: 0}
+  - {r: 0.69135547, g: 0.5086505, b: 0.7205882, a: 0}
+  - {r: 0.4750757, g: 0.5433525, b: 0.74264705, a: 0}
+  - {r: 0.5294118, g: 0.5294118, b: 0.5294118, a: 0}
+  - {r: 0.58823526, g: 0.58823526, b: 0.58823526, a: 0}
+  - {r: 0.7205882, g: 0.7205882, b: 0.7205882, a: 0}
+  - {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 0}
+  - {r: 0.7794118, g: 0.7794118, b: 0.7794118, a: 0}
+  - {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 0}
+  - {r: 0.72156864, g: 0.72156864, b: 0.72156864, a: 0}
+  - {r: 0.72156864, g: 0.72156864, b: 0.72156864, a: 0}
+  - {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 0}
+  - {r: 0.5865052, g: 0.65154517, b: 0.7058823, a: 0}
+  - {r: 0.6369485, g: 0.72794116, b: 0.72794116, a: 0}
+  - {r: 0.75735295, g: 0.40652034, b: 0.40652034, a: 0}
+  - {r: 0.41408953, g: 0.46677676, b: 0.8161765, a: 0}
+  - {r: 0.26989618, g: 0.44788808, b: 0.5735294, a: 0}
+  - {r: 0.42745098, g: 0.50980395, b: 0.54509807, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
